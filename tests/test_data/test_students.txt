@@ -1,0 +1,3 @@
+Jhon Doe, 21, Computer Science
+Jane Smith, 22, Mathematics
+Alice Johnson, 20, Physics
